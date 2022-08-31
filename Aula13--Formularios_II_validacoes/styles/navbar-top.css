@@ -7,3 +7,20 @@ body {
   max-width: 950px;
 }
 
+.smallValido {
+  color: green;
+  font-weight: bold;
+}
+
+.smallInvalido {
+  color: red;
+  font-weight: bold;
+}
+
+.campoValido {
+  background-color: green;
+}
+
+.campoInvalido {
+  background-color: red;
+}
